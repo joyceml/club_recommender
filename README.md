@@ -1,4 +1,4 @@
-# Club Recommendation System
+# UC Berkeley Club Recommendation System
 
 Combines collaborative filtering and word2vec club description similarity. Originally written for sproul.club club recommendation system.
 
